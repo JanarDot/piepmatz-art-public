@@ -227,6 +227,82 @@
       "position": "50% 49%"
     }
   ],
+  "commerce": {
+    "enabled": false,
+    "mode": "test",
+    "displayCurrency": "USD",
+    "checkoutEndpoint": "https://piepmatz-checkout.janardot-fala.workers.dev",
+    "termsUrl": "https://clandestinalabs.com/piepmatz-art/terms/",
+    "termsVersion": "draft-1",
+    "adaptivePricing": true,
+    "portraitAddOn": {
+      "enabled": true,
+      "name": "Portrait with the artist",
+      "description": "A digital portrait of Piepmatz with up to three selected items from this order, delivered by email and/or shared in tagged Instagram and TikTok Stories.",
+      "amount": 2000,
+      "currency": "USD",
+      "maximumSelectedItems": 3,
+      "compositionOptions": [
+        "together",
+        "separate"
+      ],
+      "deliveryOptions": [
+        "email",
+        "instagram-story",
+        "tiktok-story",
+        "instagram-and-tiktok-stories",
+        "email-and-instagram-story",
+        "email-and-tiktok-story",
+        "email-instagram-and-tiktok-stories"
+      ],
+      "consentVersion": "draft-1"
+    },
+    "blockedCountries": [
+      "CU",
+      "IR",
+      "IQ",
+      "KP",
+      "ML",
+      "MS",
+      "NE",
+      "PS",
+      "RW",
+      "SY",
+      "TC",
+      "YE"
+    ],
+    "fulfillmentPolicy": {
+      "processingMinimumHours": 24,
+      "processingMaximumHours": 48,
+      "workingDaysOnly": true,
+      "acceptanceRequired": true,
+      "cancellationUntil": "accepted",
+      "returnsPolicy": "statutory-rights"
+    },
+    "shippingPackages": [
+      {
+        "id": "reinforced-a4-mailer",
+        "label": "Reinforced A4 mailer",
+        "lengthMm": null,
+        "widthMm": null,
+        "heightMm": null,
+        "tareWeightGrams": null,
+        "maximumItemCount": null
+      }
+    ],
+    "shippingZones": []
+  },
+  "charityStory": {
+    "enabled": true,
+    "eyebrow": "The Piepmatz promise",
+    "headline": "Sharing love. Sharing fun. Sharing the profits.",
+    "summary": "Piepmatz makes the art, collectors give it a home, and all profits support animal foundations and protection projects.",
+    "artworkNote": "All profits from this work are donated to animal foundations and protection projects.",
+    "nominationPrompt": "Know an animal foundation or protection project Piepmatz should support? Tell her management.",
+    "nominationEmail": "Jana@clandestinalabs.com",
+    "transparencyHeading": "Where the profits go",
+    "transparencyCopy": "Supported charities and donation updates will be shared here as each contribution is confirmed."
+  },
   "shop": [
     {
       "id": "original-d05",
@@ -236,6 +312,8 @@
       "name": "Original study 01",
       "detail": "Preview listing",
       "price": null,
+      "inventoryQuantity": 1,
+      "shippingWeightGrams": null,
       "availability": "available"
     },
     {
@@ -246,6 +324,8 @@
       "name": "Original study 02",
       "detail": "Preview listing",
       "price": null,
+      "inventoryQuantity": 1,
+      "shippingWeightGrams": null,
       "availability": "available"
     },
     {
@@ -256,6 +336,8 @@
       "name": "Original study 03",
       "detail": "Preview listing",
       "price": null,
+      "inventoryQuantity": 1,
+      "shippingWeightGrams": null,
       "availability": "available"
     },
     {
@@ -266,6 +348,8 @@
       "name": "Original study 04",
       "detail": "Preview listing",
       "price": null,
+      "inventoryQuantity": 1,
+      "shippingWeightGrams": null,
       "availability": "available"
     },
     {
@@ -276,6 +360,8 @@
       "name": "Original study 05",
       "detail": "Preview listing",
       "price": null,
+      "inventoryQuantity": 1,
+      "shippingWeightGrams": null,
       "availability": "available"
     },
     {
@@ -286,6 +372,8 @@
       "name": "Original study 06",
       "detail": "Preview listing",
       "price": null,
+      "inventoryQuantity": 1,
+      "shippingWeightGrams": null,
       "availability": "available"
     },
     {
@@ -296,6 +384,8 @@
       "name": "Bookmark study 01",
       "detail": "Preview product",
       "price": null,
+      "inventoryQuantity": null,
+      "shippingWeightGrams": null,
       "availability": "available"
     },
     {
@@ -306,6 +396,8 @@
       "name": "Bookmark study 02",
       "detail": "Preview product",
       "price": null,
+      "inventoryQuantity": null,
+      "shippingWeightGrams": null,
       "availability": "available"
     },
     {
@@ -316,6 +408,8 @@
       "name": "Bookmark study 03",
       "detail": "Preview product",
       "price": null,
+      "inventoryQuantity": null,
+      "shippingWeightGrams": null,
       "availability": "available"
     }
   ],
