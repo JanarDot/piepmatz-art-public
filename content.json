@@ -1,876 +1,631 @@
 {
-  "schemaVersion": 1,
   "profile": {
-    "name": "Piepmatz Art",
     "handle": "@piepmatzopassaro",
     "created": "124+",
     "sold": "31",
-    "since": "2024",
-    "bioName": "Piepmatz, o pássaro",
-    "bio": "Disabled bird. Serious artist. Managed by one exhausted human.",
-    "location": "Portugal · Working internationally",
-    "profileImage": "assets/artist/piepmatz-portrait.jpg"
+    "since": "2024"
   },
   "highlights": [
     {
       "id": "artist",
       "label": "The artist",
-      "image": "assets/artist/piepmatz-portrait.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/piepmatz-portrait.jpg",
       "title": "Meet Piepmatz",
-      "copy": "Disabled bird. Serious artist. Massive personality. Her human has been reassigned to management, documentation, publicity and general servitude.",
-      "displayOrder": 1,
-      "visible": true
+      "copy": "Disabled bird. Serious artist. Massive personality. Her human has been reassigned to management, documentation, publicity and general servitude."
     },
     {
       "id": "process",
       "label": "At work",
-      "image": "assets/artist/artist-at-work.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/artist-at-work.jpg",
       "title": "Artist at work",
-      "copy": "Every mark is made by Piepmatz. The process is physical, unpredictable and conducted under strict avian creative direction.",
-      "displayOrder": 2,
-      "visible": true
+      "copy": "Every mark is made by Piepmatz. The process is physical, unpredictable and conducted under strict avian creative direction."
     },
     {
       "id": "archive",
       "label": "Archive",
-      "image": "assets/art/jul-2024-01.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/jul-2024-01.jpg",
       "title": "The early period",
-      "copy": "The practice began in 2024. The archive now holds more than 124 works across distinct periods, materials and moods.",
-      "displayOrder": 3,
-      "visible": true
+      "copy": "The practice began in 2024. The archive now holds more than 124 works across distinct periods, materials and moods."
     },
     {
       "id": "feathers",
       "label": "Feathers",
-      "image": "assets/art/dec-2025-05.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-05.jpg",
       "title": "Material studies",
-      "copy": "Found feathers occasionally enter the work. Whether this is mixed media or aggressive self-branding remains under curatorial review.",
-      "displayOrder": 4,
-      "visible": true
+      "copy": "Found feathers occasionally enter the work. Whether this is mixed media or aggressive self-branding remains under curatorial review."
     },
     {
       "id": "sold",
       "label": "Collected",
-      "image": "assets/artist/sold-collection.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/sold-collection.jpg",
       "title": "31 works collected",
-      "copy": "Thirty-one works have already left the studio. The artist has made no public statement about the separation.",
-      "displayOrder": 5,
-      "visible": true
+      "copy": "Thirty-one works have already left the studio. The artist has made no public statement about the separation."
     },
     {
       "id": "human",
       "label": "The human",
-      "image": "assets/artist/piepmatz-and-human.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/piepmatz-and-human.jpg",
       "title": "Studio management",
-      "copy": "Jana is the artist's human, archivist, gallery assistant and unpaid press office. Piepmatz considers this arrangement adequate.",
-      "displayOrder": 6,
-      "visible": true
+      "copy": "Jana is the artist's human, archivist, gallery assistant and unpaid press office. Piepmatz considers this arrangement adequate."
     }
   ],
   "artworks": [
     {
       "id": "d01",
-      "image": "assets/art/dec-2025-01.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-01.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.36,
-      "position": "50% 51%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 1
+      "position": "50% 51%"
     },
     {
       "id": "d02",
-      "image": "assets/art/dec-2025-02.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-02.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.42,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 2
+      "position": "50% 49%"
     },
     {
       "id": "d03",
-      "image": "assets/art/dec-2025-03.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-03.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.38,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 3
+      "position": "50% 50%"
     },
     {
       "id": "d04",
-      "image": "assets/art/dec-2025-04.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-04.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.42,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 4
+      "position": "50% 49%"
     },
     {
       "id": "d05",
-      "image": "assets/art/dec-2025-05.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-05.jpg",
       "date": "December 2025",
       "period": "Feather study",
       "zoom": 1.34,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 5
+      "position": "50% 50%"
     },
     {
       "id": "d06",
-      "image": "assets/art/dec-2025-06.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-06.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.42,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 6
+      "position": "50% 49%"
     },
     {
       "id": "d07",
-      "image": "assets/art/dec-2025-07.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-07.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.36,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 7
+      "position": "50% 50%"
     },
     {
       "id": "d08",
-      "image": "assets/art/dec-2025-08.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-08.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.4,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 8
+      "position": "50% 50%"
     },
     {
       "id": "d10",
-      "image": "assets/art/dec-2025-10.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-10.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.4,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 9
+      "position": "50% 49%"
     },
     {
       "id": "d12",
-      "image": "assets/art/dec-2025-12.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-12.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.36,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 10
+      "position": "50% 49%"
     },
     {
       "id": "d13",
-      "image": "assets/art/dec-2025-13.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-13.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.38,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 11
+      "position": "50% 49%"
     },
     {
       "id": "d16",
-      "image": "assets/art/dec-2025-16.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-16.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.36,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 12
+      "position": "50% 49%"
     },
     {
       "id": "d17",
-      "image": "assets/art/dec-2025-17.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-17.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.38,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 13
+      "position": "50% 49%"
     },
     {
       "id": "d18",
-      "image": "assets/art/dec-2025-18.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-18.jpg",
       "date": "December 2025",
       "period": "December studies",
       "zoom": 1.42,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 14
+      "position": "50% 49%"
     },
     {
       "id": "n02",
-      "image": "assets/art/nov-2025-02.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/nov-2025-02.jpg",
       "date": "November 2025",
       "period": "November studies",
       "zoom": 1.4,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 15
+      "position": "50% 49%"
     },
     {
       "id": "n12",
-      "image": "assets/art/nov-2025-12.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/nov-2025-12.jpg",
       "date": "November 2025",
       "period": "Feather diptych",
       "zoom": 1.25,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 16
+      "position": "50% 49%"
     },
     {
       "id": "n13",
-      "image": "assets/art/nov-2025-13.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/nov-2025-13.jpg",
       "date": "November 2025",
       "period": "November studies",
       "zoom": 1.38,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 17
+      "position": "50% 50%"
     },
     {
       "id": "n24",
-      "image": "assets/art/nov-2025-24.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/nov-2025-24.jpg",
       "date": "November 2025",
       "period": "November studies",
       "zoom": 1.42,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 18
+      "position": "50% 49%"
     },
     {
       "id": "a25",
-      "image": "assets/art/aug-2025-04.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/aug-2025-04.jpg",
       "date": "August 2025",
       "period": "Blue period",
       "zoom": 1.38,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 19
+      "position": "50% 49%"
     },
     {
       "id": "ap25",
-      "image": "assets/art/apr-2025-02.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/apr-2025-02.jpg",
       "date": "April 2025",
       "period": "Spring studies",
       "zoom": 1.38,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 20
+      "position": "50% 49%"
     },
     {
       "id": "dc24",
-      "image": "assets/art/dec-2024-01.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2024-01.jpg",
       "date": "December 2024",
       "period": "Early works",
       "zoom": 1.4,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 21
+      "position": "50% 49%"
     },
     {
       "id": "j24",
-      "image": "assets/art/jul-2024-01.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/jul-2024-01.jpg",
       "date": "July 2024",
       "period": "First works",
       "zoom": 1.4,
-      "position": "50% 49%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 22
+      "position": "50% 49%"
     },
     {
       "id": "og-2025-12-17",
-      "image": "assets/art/originals/2025-12-OG-17.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-17.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 23
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-16",
-      "image": "assets/art/originals/2025-12-OG-16.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-16.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 24
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-15",
-      "image": "assets/art/originals/2025-12-OG-15.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-15.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 25
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-14",
-      "image": "assets/art/originals/2025-12-OG-14.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-14.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 26
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-13",
-      "image": "assets/art/originals/2025-12-OG-13.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-13.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 27
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-12",
-      "image": "assets/art/originals/2025-12-OG-12.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-12.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 28
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-11",
-      "image": "assets/art/originals/2025-12-OG-11.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-11.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 29
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-10",
-      "image": "assets/art/originals/2025-12-OG-10.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-10.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 30
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-9",
-      "image": "assets/art/originals/2025-12-OG-9.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-9.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 31
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-8",
-      "image": "assets/art/originals/2025-12-OG-8.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-8.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 32
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-7",
-      "image": "assets/art/originals/2025-12-OG-7.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-7.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 33
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-6",
-      "image": "assets/art/originals/2025-12-OG-6.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-6.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 34
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-5",
-      "image": "assets/art/originals/2025-12-OG-5.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-5.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 35
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-4",
-      "image": "assets/art/originals/2025-12-OG-4.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-4.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 36
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-3",
-      "image": "assets/art/originals/2025-12-OG-3.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-3.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 37
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-2",
-      "image": "assets/art/originals/2025-12-OG-2.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-2.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 38
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-12-1",
-      "image": "assets/art/originals/2025-12-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-12-OG-1.jpg",
       "date": "December 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 39
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-13",
-      "image": "assets/art/originals/2025-11-OG-13.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-13.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 40
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-12",
-      "image": "assets/art/originals/2025-11-OG-12.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-12.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 41
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-11",
-      "image": "assets/art/originals/2025-11-OG-11.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-11.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 42
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-10",
-      "image": "assets/art/originals/2025-11-OG-10.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-10.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 43
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-9",
-      "image": "assets/art/originals/2025-11-OG-9.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-9.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 44
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-8",
-      "image": "assets/art/originals/2025-11-OG-8.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-8.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 45
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-7",
-      "image": "assets/art/originals/2025-11-OG-7.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-7.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 46
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-6",
-      "image": "assets/art/originals/2025-11-OG-6.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-6.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 47
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-5",
-      "image": "assets/art/originals/2025-11-OG-5.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-5.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 48
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-4",
-      "image": "assets/art/originals/2025-11-OG-4.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-4.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 49
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-3",
-      "image": "assets/art/originals/2025-11-OG-3.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-3.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 50
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-2",
-      "image": "assets/art/originals/2025-11-OG-2.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-2.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 51
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-11-1",
-      "image": "assets/art/originals/2025-11-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-11-OG-1.jpg",
       "date": "November 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 52
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-08-3",
-      "image": "assets/art/originals/2025-08-OG-3.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-08-OG-3.jpg",
       "date": "August 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 53
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-08-2",
-      "image": "assets/art/originals/2025-08-OG-2.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-08-OG-2.jpg",
       "date": "August 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 54
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-08-1",
-      "image": "assets/art/originals/2025-08-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-08-OG-1.jpg",
       "date": "August 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 55
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-07-1",
-      "image": "assets/art/originals/2025-07-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-07-OG-1.jpg",
       "date": "July 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 56
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-06-1",
-      "image": "assets/art/originals/2025-06-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-06-OG-1.jpg",
       "date": "June 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 57
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-05-2",
-      "image": "assets/art/originals/2025-05-OG-2.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-05-OG-2.jpg",
       "date": "May 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 58
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-05-1",
-      "image": "assets/art/originals/2025-05-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-05-OG-1.jpg",
       "date": "May 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 59
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-04-1",
-      "image": "assets/art/originals/2025-04-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-04-OG-1.jpg",
       "date": "April 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 60
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-03-2",
-      "image": "assets/art/originals/2025-03-OG-2.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-03-OG-2.jpg",
       "date": "March 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 61
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-03-1",
-      "image": "assets/art/originals/2025-03-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-03-OG-1.jpg",
       "date": "March 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 62
+      "position": "50% 50%"
     },
     {
       "id": "og-2025-01-1",
-      "image": "assets/art/originals/2025-01-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2025-01-OG-1.jpg",
       "date": "January 2025",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 63
+      "position": "50% 50%"
     },
     {
       "id": "og-2024-12-3",
-      "image": "assets/art/originals/2024-12-OG-3.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2024-12-OG-3.jpg",
       "date": "December 2024",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 64
+      "position": "50% 50%"
     },
     {
       "id": "og-2024-12-2",
-      "image": "assets/art/originals/2024-12-OG-2.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2024-12-OG-2.jpg",
       "date": "December 2024",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 65
+      "position": "50% 50%"
     },
     {
       "id": "og-2024-12-1",
-      "image": "assets/art/originals/2024-12-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2024-12-OG-1.jpg",
       "date": "December 2024",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 66
+      "position": "50% 50%"
     },
     {
       "id": "og-2024-08-2",
-      "image": "assets/art/originals/2024-08-OG-2.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2024-08-OG-2.jpg",
       "date": "August 2024",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 67
+      "position": "50% 50%"
     },
     {
       "id": "og-2024-08-1",
-      "image": "assets/art/originals/2024-08-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2024-08-OG-1.jpg",
       "date": "August 2024",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 68
+      "position": "50% 50%"
     },
     {
       "id": "og-2024-07-3",
-      "image": "assets/art/originals/2024-07-OG-3.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2024-07-OG-3.jpg",
       "date": "July 2024",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 69
+      "position": "50% 50%"
     },
     {
       "id": "og-2024-07-2",
-      "image": "assets/art/originals/2024-07-OG-2.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2024-07-OG-2.jpg",
       "date": "July 2024",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 70
+      "position": "50% 50%"
     },
     {
       "id": "og-2024-07-1",
-      "image": "assets/art/originals/2024-07-OG-1.jpg",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/originals/2024-07-OG-1.jpg",
       "date": "July 2024",
       "period": "Original archive",
       "zoom": 1,
-      "position": "50% 50%",
-      "status": "available",
-      "profileVisible": true,
-      "displayOrder": 71
+      "position": "50% 50%"
     }
   ],
-  "charityStory": {
-    "enabled": true,
-    "eyebrow": "The Piepmatz promise",
-    "headline": "Sharing love. Sharing fun. Sharing the profits.",
-    "summary": "All profits support animal foundations and protection projects.",
-    "artworkNote": "All profits from this work are donated to animal foundations and protection projects.",
-    "nominationPrompt": "Know an animal foundation or protection project Piepmatz should support? Tell her management.",
-    "nominationEmail": "Jana@clandestinalabs.com",
-    "progress": {
-      "percent": 62,
-      "goalAmount": 500,
-      "currency": "USD"
-    }
-  },
   "commerce": {
-    "enabled": false,
-    "mode": "test",
+    "enabled": true,
+    "mode": "live",
     "displayCurrency": "USD",
     "checkoutEndpoint": "https://piepmatz-checkout.janardot-fala.workers.dev",
     "termsUrl": "https://clandestinalabs.com/piepmatz-art/terms/",
-    "termsVersion": "draft-1",
+    "termsVersion": "draft-2",
     "adaptivePricing": true,
     "portraitAddOn": {
       "enabled": true,
@@ -910,77 +665,6 @@
       "US",
       "YE"
     ],
-    "shippingResearch": {
-      "status": "needs-review",
-      "lastCheckedAt": "2026-08-05",
-      "sources": [
-        {
-          "id": "ctt-prices",
-          "label": "CTT current postal prices",
-          "url": "https://www.ctt.pt/transversais/lista-de-precos-de-correio"
-        },
-        {
-          "id": "ctt-alerts",
-          "label": "CTT international service alerts",
-          "url": "https://www.ctt.pt/transversais/alertas-envios-internacionais"
-        },
-        {
-          "id": "ctt-international-expresso",
-          "label": "CTT international express parcels",
-          "url": "https://www.ctt.pt/particulares/enviar/para-o-estrangeiro/encomendas-expresso/expresso-para-o-resto-do-mundo"
-        },
-        {
-          "id": "ctt-domestic-expresso",
-          "label": "CTT domestic two-day express parcels",
-          "url": "https://www.ctt.pt/particulares/enviar/para-portugal/encomendas-expresso/expresso-em-dois-dias"
-        },
-        {
-          "id": "ctt-volumetric-weight",
-          "label": "CTT volumetric weight rules",
-          "url": "https://www.ctt.pt/ferramentas/peso-volumetrico"
-        },
-        {
-          "id": "ctt-international-goods-rules",
-          "label": "CTT international goods and customs rules",
-          "url": "https://www.ctt.pt/empresas/encomendas-e-correio/enviar/regras-e-cuidados-para-envios/envios-internacionais"
-        },
-        {
-          "id": "ctt-registered-goods-notice",
-          "label": "CTT notice ending goods in International Registered Mail",
-          "url": "https://www.ctt.pt/grupo-ctt/media/noticias/o-envio-de-bens-deixa-de-ser-permitido-em-correio-registado-internacional"
-        },
-        {
-          "id": "ctt-spain-expresso",
-          "label": "CTT insured express parcels to Spain",
-          "url": "https://www.ctt.pt/particulares/enviar/para-o-estrangeiro/encomendas-expresso/expresso-para-espanha"
-        },
-        {
-          "id": "ctt-expresso-coverage",
-          "label": "CTT international express destination coverage",
-          "url": "https://www.ctt.pt/application/themes/pdfs/cobertura_geografica_internacional.pdf"
-        },
-        {
-          "id": "ctt-us-goods",
-          "label": "CTT requirements for merchandise sent to the United States",
-          "url": "https://www.ctt.pt/empresas/encomendas-e-correio/enviar/regras-e-cuidados-para-envios/envios-estados-unidos-da-america"
-        },
-        {
-          "id": "ecb-eur-usd",
-          "label": "ECB euro foreign exchange reference rates",
-          "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
-        }
-      ],
-      "pricingAssumptions": {
-        "carrierPriceCurrency": "EUR",
-        "checkoutCurrency": "USD",
-        "eurToUsd": 1.14,
-        "exchangeRateDate": "2026-07-28",
-        "exchangeRateSource": "European Central Bank reference rate, rounded from 1.1367",
-        "conversionRounding": "Each shipping total is rounded up to the next whole USD.",
-        "protection": "CTT Extra Protection up to EUR 500, including Portuguese VAT.",
-        "package": "A4 footprint, 10 mm thick, up to three artworks, 200 g packed weight per artwork."
-      }
-    },
     "fulfillmentPolicy": {
       "processingMinimumHours": 24,
       "processingMaximumHours": 48,
@@ -988,11 +672,6 @@
       "acceptanceRequired": true,
       "cancellationUntil": "accepted",
       "returnsPolicy": "statutory-rights"
-    },
-    "goLiveChecks": {
-      "sellerIdentityConfirmed": false,
-      "consumerTermsApproved": false,
-      "taxHandlingConfirmed": false
     },
     "shippingPackages": [
       {
@@ -1003,6 +682,28 @@
         "heightMm": 10,
         "tareWeightGrams": 0,
         "maximumItemCount": 3
+      }
+    ],
+    "shippingMethods": [
+      {
+        "id": "tracked",
+        "label": "Tracked shipping",
+        "description": "Full CTT tracking with the carrier's weight-based base protection.",
+        "tracked": true,
+        "insured": false,
+        "amountAdjustment": -1100,
+        "maximumProtectionAmount": 0,
+        "protectionCurrency": "USD"
+      },
+      {
+        "id": "insured-tracked",
+        "label": "Insured tracked shipping",
+        "description": "Full CTT tracking with Extra Protection for the artwork value, up to $500.",
+        "tracked": true,
+        "insured": true,
+        "amountAdjustment": 0,
+        "maximumProtectionAmount": 50000,
+        "protectionCurrency": "USD"
       }
     ],
     "shippingZones": [
@@ -1428,6 +1129,20 @@
       }
     ]
   },
+  "charityStory": {
+    "enabled": true,
+    "eyebrow": "The Piepmatz promise",
+    "headline": "Sharing love. Sharing fun. Sharing the profits.",
+    "summary": "All profits support animal foundations and protection projects.",
+    "artworkNote": "All profits from this work are donated to animal foundations and protection projects.",
+    "nominationPrompt": "Know an animal foundation or protection project Piepmatz should support? Tell her management.",
+    "nominationEmail": "Jana@clandestinalabs.com",
+    "progress": {
+      "percent": 62,
+      "goalAmount": 500,
+      "currency": "USD"
+    }
+  },
   "shop": [
     {
       "id": "original-og-2025-12-17",
@@ -1436,16 +1151,13 @@
       "kind": "original",
       "name": "2025-12-OG-17",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 1
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-16",
@@ -1454,16 +1166,13 @@
       "kind": "original",
       "name": "2025-12-OG-16",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 2
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-15",
@@ -1472,16 +1181,13 @@
       "kind": "original",
       "name": "2025-12-OG-15",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 3
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-14",
@@ -1490,16 +1196,13 @@
       "kind": "original",
       "name": "2025-12-OG-14",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 4
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-13",
@@ -1508,16 +1211,13 @@
       "kind": "original",
       "name": "2025-12-OG-13",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 5
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-12",
@@ -1526,16 +1226,13 @@
       "kind": "original",
       "name": "2025-12-OG-12",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 6
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-11",
@@ -1544,16 +1241,13 @@
       "kind": "original",
       "name": "2025-12-OG-11",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 7
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-10",
@@ -1562,16 +1256,13 @@
       "kind": "original",
       "name": "2025-12-OG-10",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 8
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-9",
@@ -1580,16 +1271,13 @@
       "kind": "original",
       "name": "2025-12-OG-9",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 9
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-8",
@@ -1598,16 +1286,13 @@
       "kind": "original",
       "name": "2025-12-OG-8",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 10
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-7",
@@ -1616,16 +1301,13 @@
       "kind": "original",
       "name": "2025-12-OG-7",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 11
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-6",
@@ -1634,16 +1316,13 @@
       "kind": "original",
       "name": "2025-12-OG-6",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 12
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-5",
@@ -1652,16 +1331,13 @@
       "kind": "original",
       "name": "2025-12-OG-5",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 13
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-4",
@@ -1670,16 +1346,13 @@
       "kind": "original",
       "name": "2025-12-OG-4",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 14
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-3",
@@ -1688,16 +1361,13 @@
       "kind": "original",
       "name": "2025-12-OG-3",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 15
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-2",
@@ -1706,16 +1376,13 @@
       "kind": "original",
       "name": "2025-12-OG-2",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 16
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-12-1",
@@ -1724,16 +1391,13 @@
       "kind": "original",
       "name": "2025-12-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 17
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-13",
@@ -1742,16 +1406,13 @@
       "kind": "original",
       "name": "2025-11-OG-13",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 18
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-12",
@@ -1760,16 +1421,13 @@
       "kind": "original",
       "name": "2025-11-OG-12",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 19
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-11",
@@ -1778,16 +1436,13 @@
       "kind": "original",
       "name": "2025-11-OG-11",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 20
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-10",
@@ -1796,16 +1451,13 @@
       "kind": "original",
       "name": "2025-11-OG-10",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 21
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-9",
@@ -1814,16 +1466,13 @@
       "kind": "original",
       "name": "2025-11-OG-9",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 22
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-8",
@@ -1832,16 +1481,13 @@
       "kind": "original",
       "name": "2025-11-OG-8",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 23
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-7",
@@ -1850,16 +1496,13 @@
       "kind": "original",
       "name": "2025-11-OG-7",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 24
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-6",
@@ -1868,16 +1511,13 @@
       "kind": "original",
       "name": "2025-11-OG-6",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 25
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-5",
@@ -1886,16 +1526,13 @@
       "kind": "original",
       "name": "2025-11-OG-5",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 26
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-4",
@@ -1904,16 +1541,13 @@
       "kind": "original",
       "name": "2025-11-OG-4",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 27
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-3",
@@ -1922,16 +1556,13 @@
       "kind": "original",
       "name": "2025-11-OG-3",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 28
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-2",
@@ -1940,16 +1571,13 @@
       "kind": "original",
       "name": "2025-11-OG-2",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 29
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-11-1",
@@ -1958,16 +1586,13 @@
       "kind": "original",
       "name": "2025-11-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 30
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-08-3",
@@ -1976,16 +1601,13 @@
       "kind": "original",
       "name": "2025-08-OG-3",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 31
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-08-2",
@@ -1994,16 +1616,13 @@
       "kind": "original",
       "name": "2025-08-OG-2",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 32
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-08-1",
@@ -2012,16 +1631,13 @@
       "kind": "original",
       "name": "2025-08-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 33
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-07-1",
@@ -2030,16 +1646,13 @@
       "kind": "original",
       "name": "2025-07-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 34
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-06-1",
@@ -2048,16 +1661,13 @@
       "kind": "original",
       "name": "2025-06-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 35
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-05-2",
@@ -2066,16 +1676,13 @@
       "kind": "original",
       "name": "2025-05-OG-2",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 36
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-05-1",
@@ -2084,16 +1691,13 @@
       "kind": "original",
       "name": "2025-05-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 37
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-04-1",
@@ -2102,16 +1706,13 @@
       "kind": "original",
       "name": "2025-04-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 38
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-03-2",
@@ -2120,16 +1721,13 @@
       "kind": "original",
       "name": "2025-03-OG-2",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 39
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-03-1",
@@ -2138,16 +1736,13 @@
       "kind": "original",
       "name": "2025-03-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 40
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2025-01-1",
@@ -2156,16 +1751,13 @@
       "kind": "original",
       "name": "2025-01-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 41
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2024-12-3",
@@ -2174,16 +1766,13 @@
       "kind": "original",
       "name": "2024-12-OG-3",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 42
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2024-12-2",
@@ -2192,16 +1781,13 @@
       "kind": "original",
       "name": "2024-12-OG-2",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 43
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2024-12-1",
@@ -2210,16 +1796,13 @@
       "kind": "original",
       "name": "2024-12-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 44
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2024-08-2",
@@ -2228,16 +1811,13 @@
       "kind": "original",
       "name": "2024-08-OG-2",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 45
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2024-08-1",
@@ -2246,16 +1826,13 @@
       "kind": "original",
       "name": "2024-08-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 46
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2024-07-3",
@@ -2264,16 +1841,13 @@
       "kind": "original",
       "name": "2024-07-OG-3",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 47
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2024-07-2",
@@ -2282,16 +1856,13 @@
       "kind": "original",
       "name": "2024-07-OG-2",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 48
+      "shippingWeightGrams": 100,
+      "availability": "available"
     },
     {
       "id": "original-og-2024-07-1",
@@ -2300,16 +1871,13 @@
       "kind": "original",
       "name": "2024-07-OG-1",
       "detail": "Precisely placed claw prints meet singular beak work in a one-of-one composition, produced under the artist’s famously uncompromising creative direction.",
-      "availability": "available",
       "price": {
-        "mode": "fixed",
         "amount": 8500,
         "currency": "USD"
       },
       "inventoryQuantity": 1,
-      "shippingWeightGrams": 200,
-      "visible": true,
-      "displayOrder": 49
+      "shippingWeightGrams": 100,
+      "availability": "available"
     }
   ],
   "rails": {
