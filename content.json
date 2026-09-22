@@ -1,52 +1,47 @@
 {
   "profile": {
     "handle": "@piepmatzopassaro",
+    "tiktokUrl": "https://www.tiktok.com/@piepmatzart",
     "created": "124+",
     "sold": "31",
     "since": "2024"
   },
   "highlights": [
     {
-      "id": "artist",
-      "label": "The artist",
-      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/piepmatz-portrait.jpg",
-      "title": "Meet Piepmatz",
-      "copy": "Disabled bird. Serious artist. Massive personality. Her human has been reassigned to management, documentation, publicity and general servitude."
+      "id": "highlight-01",
+      "label": "Video 1",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-01.jpg",
+      "video": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-01.mp4"
     },
     {
-      "id": "process",
-      "label": "At work",
-      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/artist-at-work.jpg",
-      "title": "Artist at work",
-      "copy": "Every mark is made by Piepmatz. The process is physical, unpredictable and conducted under strict avian creative direction."
+      "id": "highlight-02",
+      "label": "Video 2",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-02.jpg",
+      "video": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-02.mp4"
     },
     {
-      "id": "archive",
-      "label": "Archive",
-      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/jul-2024-01.jpg",
-      "title": "The early period",
-      "copy": "The practice began in 2024. The archive now holds more than 124 works across distinct periods, materials and moods."
+      "id": "highlight-03",
+      "label": "Video 3",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-03.jpg",
+      "video": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-03.mp4"
     },
     {
-      "id": "feathers",
-      "label": "Feathers",
-      "image": "https://janardot.github.io/piepmatz-art-public/assets/art/dec-2025-05.jpg",
-      "title": "Material studies",
-      "copy": "Found feathers occasionally enter the work. Whether this is mixed media or aggressive self-branding remains under curatorial review."
+      "id": "highlight-04",
+      "label": "Video 4",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-04.jpg",
+      "video": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-04.mp4"
     },
     {
-      "id": "sold",
-      "label": "Collected",
-      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/sold-collection.jpg",
-      "title": "31 works collected",
-      "copy": "Thirty-one works have already left the studio. The artist has made no public statement about the separation."
+      "id": "highlight-05",
+      "label": "Video 5",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-05.jpg",
+      "video": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-05.mp4"
     },
     {
-      "id": "human",
-      "label": "The human",
-      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/piepmatz-and-human.jpg",
-      "title": "Studio management",
-      "copy": "Jana is the artist's human, archivist, gallery assistant and unpaid press office. Piepmatz considers this arrangement adequate."
+      "id": "highlight-06",
+      "label": "Video 6",
+      "image": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-06.jpg",
+      "video": "https://janardot.github.io/piepmatz-art-public/assets/artist/highlights/piepmatz-highlight-06.mp4"
     }
   ],
   "artworks": [
